@@ -45,7 +45,7 @@ A estrutura final da página é composta por:
 
 Você pode visualizar a página abrindo o arquivo `index.html` em qualquer navegador moderno.
 
-🔗 **Link do projeto online:** *[em breve]*
+🔗 **Link do projeto online:** *https://leticiaviana.github.io/HMLT-Tailwind/*
 
 ---
 
